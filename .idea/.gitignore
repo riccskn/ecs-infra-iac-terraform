@@ -19,6 +19,7 @@ override.tf.json
 *_override.tf.json
 .terraform.lock.hcl
 .terraformrc
+.terraform
 terraform.rc
 
 # Local settings and environment variables
